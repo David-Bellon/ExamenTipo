@@ -1,3 +1,4 @@
+from warrior import Warrior
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 

@@ -1,6 +1,6 @@
-
+from warrior import Warrior
 def max_recursive(listElements):
-
+    return 0
 
 
 def max_2_numbers(number1, number2):

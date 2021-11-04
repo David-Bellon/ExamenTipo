@@ -1,3 +1,5 @@
+from warrior_type import WarriorType
+from weapon_type import WeaponType
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
